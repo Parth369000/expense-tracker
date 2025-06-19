@@ -12,10 +12,6 @@ A simple, cross-platform expense tracking app built with Flutter. This applicati
 - **Dark & Light Theme:** Supports both dark and light modes.
 - **Platform Adaptation:** Uses Material and Cupertino widgets for Android and iOS look & feel.
 
-## Screenshots
-
-<!-- Add screenshots here if available -->
-
 ## Getting Started
 
 ### Prerequisites
@@ -25,7 +21,7 @@ A simple, cross-platform expense tracking app built with Flutter. This applicati
 ### Installation
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   [git clone <your-repo-url>](https://github.com/Parth369000/expense-tracker.git)
    cd EXPENSE_TRACKER
    ```
 2. **Install dependencies:**
@@ -53,13 +49,6 @@ A simple, cross-platform expense tracking app built with Flutter. This applicati
 
 ## Linting & Code Quality
 - Uses [flutter_lints](https://pub.dev/packages/flutter_lints) for recommended best practices.
-
-## Testing
-- Basic widget test included in `test/widget_test.dart`.
-- Run tests with:
-  ```sh
-  flutter test
-  ```
 
 ## License
 
